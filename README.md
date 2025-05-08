@@ -6,7 +6,7 @@
 
 📜 Over **6,500+ lines** of insights into their structure and functionality.  
 
-## 📂 **Available Files**
+## 📂 **Available Files** 
 - **v0 Folder**  
 - **Manus Folder**
 - **Lovable Folder**
